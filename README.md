@@ -4,7 +4,6 @@ A drop-in Flutter `TextFormField` specifically designed for password input with 
 
 [![pub package](https://img.shields.io/pub/v/ez_password_field.svg)](https://pub.dev/packages/ez_password_field)
 [![likes](https://img.shields.io/pub/likes/ez_password_field.svg)](https://pub.dev/packages/ez_password_field)
-[![popularity](https://img.shields.io/pub/popularity/ez_password_field.svg)](https://pub.dev/packages/ez_password_field)
 [![pub points](https://img.shields.io/pub/points/ez_password_field.svg)](https://pub.dev/packages/ez_password_field)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
