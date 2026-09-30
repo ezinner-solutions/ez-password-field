@@ -1,5 +1,5 @@
 name: ez_password_field
-description: A highly customizable password field with built-in visibility toggle, configurable validation rules, and robustness features.
+description: A drop-in Flutter TextFormField for password input with built-in visibility toggle, configurable validation rules, and character prohibitions.
 version: 0.0.3
 homepage: https://github.com/Evgenii-Zinner/ez-password-field
 repository: https://github.com/Evgenii-Zinner/ez-password-field
