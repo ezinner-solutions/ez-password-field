@@ -6,14 +6,15 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
-  const MyApp({Key? key}) : super(key: key);
+  const MyApp({super.key});
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'EzPasswordField Demo',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        useMaterial3: true,
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
       home: const MyHomePage(title: 'EzPasswordField Demo'),
     );
@@ -21,7 +22,7 @@ class MyApp extends StatelessWidget {
 }
 
 class MyHomePage extends StatefulWidget {
-  const MyHomePage({Key? key, required this.title}) : super(key: key);
+  const MyHomePage({super.key, required this.title});
 
   final String title;
 
